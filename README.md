@@ -23,7 +23,7 @@
 ## Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/AghayeCoder/tx-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/l3lack-eyes/tx-ui/master/install.sh)
 ```
 
 ## SSL Certificate
