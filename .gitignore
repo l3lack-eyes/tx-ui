@@ -16,3 +16,5 @@ release/
 vendor/
 /release.sh
 /x-ui
+/sub/html/sub.html
+README.md
